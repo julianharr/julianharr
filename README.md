@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [www.julianharrington.com](www.julianharrington.com)
 
-- 📝 I regularly write articles on [https://julianharr.medium.com/](https://julianharr.medium.com/)
-
 - 📫 How to reach me **jrayharrington@gmail.com**
 
 ### Blogs posts
