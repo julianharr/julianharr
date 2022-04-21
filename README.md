@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Julian 👋</h1>
-<h3 align="center">I'm a Product Designer & Front-End Developer learning how to make tech more inclusive and diverse.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianharr&label=Profile%20views&color=0e75b6&style=flat" alt="julianharr" /> </p>
 
